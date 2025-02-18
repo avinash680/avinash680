@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@bababeru32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bababeru32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/avinash-thakur-1103292a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avinash-thakur-1103292a3" height="30" width="40" /></a>
 <a href="https://instagram.com/avinashthakur1522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinashthakur1522" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@quantumtechnology127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quantumtechnology127" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/http://www.youtube.com/@Quantumtechnology127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quantumtechnology127" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
